@@ -1,6 +1,6 @@
 # CodeBasics Data Analysis Project: "Provide Insights to an Automotive company on Electric vehicles launch in India"
 
-Project Analysis Report: https://dhhruuvinongit.github.io/Codebasics_EV_Analysis_Project/
+Project Analysis Webpage Report: https://codebasics-project-ev-analysis.vercel.app/
 
 ## Problem Statement
 

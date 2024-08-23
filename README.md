@@ -72,7 +72,7 @@ The project consists of the following key files:
 - **Key Components:**
   - PDF file to interpret the report.
 
-### 5. `Codebasic_EV_Analysis_Report.html`
+### 5. `index.html` (was earlier `Codebasic_EV_Analysis_Report.html`)
 - **Purpose:** To represent the report on a webpage using html.
 - **Key Components:**
   - HTML code file to interpret the report over a webpage.

@@ -62,6 +62,21 @@ The project consists of the following key files:
   - Calculation of variuos metrics.
   - Analysis and Visualization of the trends.
 
+### 3. `generate_report.py`
+- **Purpose:** To create a markdown file for making a report of the analysis performed.
+- **Key Components:**
+  - Summarization of Primary and Secondary Analysis to represent the insights in form of a report.
+
+### 4. `Codebasic_EV_Analysis_Report.pdf`
+- **Purpose:** To represent the report in PDF format.
+- **Key Components:**
+  - PDF file to interpret the report.
+
+### 5. `Codebasic_EV_Analysis_Report.html`
+- **Purpose:** To represent the report on a webpage using html.
+- **Key Components:**
+  - HTML code file to interpret the report over a webpage.
+
 ## Prerequisites
 
 Before running the notebooks, ensure you have the following installed:
